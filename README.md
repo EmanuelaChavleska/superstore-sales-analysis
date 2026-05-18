@@ -34,3 +34,22 @@ Then I created calculated measures using DAX for key metrics like total sales, p
 I chose Power BI because it makes it easier to explore data visually and build interactive dashboards, which helps in understanding trends and patterns quickly.
 
 Finally, I built two dashboards (Sales Overview and Product Details) to present the results and answer the main business questions in a clear and simple way.
+
+## Skills:
+Power BI: ETL, modeling, DAX, writing functions, data visualization
+
+## Results and Business Recommendations:
+From the analysis, I was able to identify clear patterns in the Superstore data across products, categories, regions, and customer segments.
+
+Some categories and products performed significantly better than others in terms of both sales and profit. The Top 10 products by sales and Top 5 products by profit showed that a small number of products contribute a large share of the overall performance. At the same time, some sub-categories performed better in terms of profit than others, showing clear differences in profitability across product groups. 
+The analysis also showed differences in performance across regions, with some regions generating stronger results than others.
+<img width="1276" height="714" alt="Screenshot 2026-05-18 142516" src="https://github.com/user-attachments/assets/edfc882d-102e-4a76-8a01-096cf7d358bb" />
+<img width="1114" height="626" alt="Screenshot 2026-05-18 161021" src="https://github.com/user-attachments/assets/dd3b3a95-e3c0-49e3-816c-2b7b79bd44ec" />
+
+### Business Recommendations:
+Based on these results, the following actions can be considered:
+
+- Focus on the top-performing products and categories, as they contribute the majority of sales and profit
+- Review underperforming sub-categories to understand why they generate lower profit compared to others
+- Optimize inventory and marketing efforts based on regional performance
+- Avoid making decisions based only on sales volume, and instead also consider profit when evaluating product success
