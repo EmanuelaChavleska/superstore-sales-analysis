@@ -54,8 +54,8 @@ A small number of products drive a large share of total profit which means stron
 ## Recommendations:
 Based on the uncovered insights, the following recommendations have been provided:
 
-**Focus on the high profit products:** Ensure availability and visibility of top-performing products as they contribute the majority of sales and profit
-**Reduce dependency on top products:** Profit is concentrated in a few products (especially Copiers) and there is a risk: if top products decline then the overall profit drops significantly
-**Improve Furniture category performance:** Furniture contributes only 6.4%. Investigate pricing, demand, or product mix in this category to understand why it generates lower profit compared to others
-**Optimize inventory and marketing efforts based on regional performance:** South is the weakest region (~$402K sales). Investigate: customer reach, product availability, regional demand differences
-**Maintain strong growth trend:** Sales are increasing strongly after 2015. Continue focusing on growth strategies that worked post-2015 (expansion, marketing, product optimization)
+- **Focus on the high profit products:** Ensure availability and visibility of top-performing products as they contribute the majority of sales and profit
+- **Reduce dependency on top products:** Profit is concentrated in a few products (especially Copiers) and there is a risk: if top products decline then the overall profit drops significantly
+- **Improve Furniture category performance:** Furniture contributes only 6.4%. Investigate pricing, demand, or product mix in this category to understand why it generates lower profit compared to others
+- **Optimize inventory and marketing efforts based on regional performance:** South is the weakest region (~$402K sales). Investigate: customer reach, product availability, regional demand differences
+- **Maintain strong growth trend:** Sales are increasing strongly after 2015. Continue focusing on growth strategies that worked post-2015 (expansion, marketing, product optimization)
