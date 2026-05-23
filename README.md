@@ -14,10 +14,10 @@ A Superstore is working with a lot of sales data from different regions, product
 
 Because of that, they want to understand things like:
 
-*Which products, categories, and sub-categories generate the highest and lowest profit
-*How sales are distributed across different regions
-*Which products are top-performing in terms of sales volume and profitability
--Which areas of the business need improvement
+- Which products, categories, and sub-categories generate the highest and lowest profit
+- How sales are distributed across different regions
+- Which products are top-performing in terms of sales volume and profitability
+- Which areas of the business need improvement
 
 Without this kind of analysis, it’s hard for them to make good decisions about products, pricing, and stock.
 
