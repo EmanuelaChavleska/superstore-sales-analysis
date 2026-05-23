@@ -39,21 +39,16 @@ The business is generating solid revenue, but the profit margin is relatively mo
 - 2017 is the highest sales year (~$733K)
 The company experienced recovery after 2015 and strong consistent growth afterward, indicating improving performance or better market penetration.
 
-**Regional Performance**
-  There is a clear regional imbalance. The West region is significantly outperforming the South, suggesting either stronger demand, better customers, or better product-market fit in that region.
+**Regional Performance -** There is a clear regional imbalance. The West region is significantly outperforming the South, suggesting either stronger demand, better customers, or better product-market fit in that region.
 
-**Sales by State**
-  Revenue is not evenly distributed geographically, a small number of states drive a large share of sales.
+**Sales by State -** Revenue is not evenly distributed geographically, a small number of states drive a large share of sales.
 
-**Product Performance**
-  High sales products are mostly technology, while high quantity products are mostly office supplies. This shows a clear split between:
+**Product Performance -** High sales products are mostly technology, while high quantity products are mostly office supplies. This shows a clear split between:
 high volume / low value products and low volume / high value products.
 
-**Category performance**
-  Furniture is significantly underperforming compared to the other categories, contributing only a small portion of overall profit.
+**Category performance -** Furniture is significantly underperforming compared to the other categories, contributing only a small portion of overall profit.
 
-**Profit Concentration**
-  Top 5 products by profit are dominated by Copiers (especially Canon imageCLASS 2200)
+**Profit Concentration -** Top 5 products by profit are dominated by Copiers (especially Canon imageCLASS 2200)
 A small number of products drive a large share of total profit which means strong dependency on a few high-performing items.
 
 ## Recommendations:
