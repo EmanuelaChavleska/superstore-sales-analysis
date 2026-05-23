@@ -34,9 +34,9 @@ Below are the sales overview and product details dashboards:
 The business is generating solid revenue, but the profit margin is relatively moderate (~12%), meaning profitability depends heavily on product mix and cost efficiency.
 
 **Sales Trends**
--Sales show a small drop from 2014 to 2015
--Strong growth from 2015 to 2017
--2017 is the highest sales year (~$733K)
+- Sales show a small drop from 2014 to 2015
+- Strong growth from 2015 to 2017
+- 2017 is the highest sales year (~$733K)
 The company experienced recovery after 2015 and strong consistent growth afterward, indicating improving performance or better market penetration.
 
 **Regional Performance**
