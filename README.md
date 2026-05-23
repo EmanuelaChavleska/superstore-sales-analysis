@@ -5,7 +5,7 @@ Using Power BI, I performed a descriptive analysis of a retail Superstore datase
 
 Two interactive dashboards were developed: a Sales Overview Dashboard and a Product Details Dashboard, enabling a comprehensive view of business performance.
 
-Through these dashboards, I analyzed key business questions such as sales distribution by region, category and sub-category profitability, and top-performing products by sales and profit.
+Through these dashboards, I analyzed key business questions such as sales distribution by region and state, category and sub-category profitability, top-performing products by sales and profit, and sales trends over time.
 
 These insights helped highlight strong and weak areas of performance across the business.
 
@@ -15,36 +15,23 @@ A Superstore is working with a lot of sales data from different regions, product
 Because of that, they want to understand things like:
 
 -Which products, categories, and sub-categories generate the highest and lowest profit
--How sales are distributed across different regions and customer segments
+-How sales are distributed across different regions
 -Which products are top-performing in terms of sales volume and profitability
 -Which areas of the business need improvement
 
 Without this kind of analysis, it’s hard for them to make good decisions about products, pricing, and stock.
 
-## Methodology:
-
-For this project, I used Power BI to analyze the Superstore dataset.
-
-First, I cleaned and transformed the data to make sure it was consistent and ready for analysis.
-
-After that, I used Power BI to create a data model and build relationships between the tables so the data could be analyzed properly.
-
-Then I created calculated measures using DAX for key metrics like total sales, profit, and orders and profit margin.
-
-I chose Power BI because it makes it easier to explore data visually and build interactive dashboards, which helps in understanding trends and patterns quickly.
-
-Finally, I built two dashboards (Sales Overview and Product Details) to present the results and answer the main business questions in a clear and simple way.
-
-## Skills:
-Power BI: ETL, modeling, DAX, writing functions, data visualization
+## Dataset Structure and ERD (Entity Relationship Diagram)
+The database structure as seen below consists of three tables: Orders, Customers and Products with a total row count of 12,649 records.
+<img width="1000" height="550" alt="ER diagram" src="https://github.com/user-attachments/assets/e23d68c9-9efe-4538-a072-83d861ca4d5c" />
 
 ## Results and Business Recommendations:
 From the analysis, I was able to identify clear patterns in the Superstore data across products, categories, regions, and customer segments.
 
 Some categories and products performed significantly better than others in terms of both sales and profit. The Top 10 products by sales and Top 5 products by profit showed that a small number of products contribute a large share of the overall performance. At the same time, some sub-categories performed better in terms of profit than others, showing clear differences in profitability across product groups. 
 The analysis also showed differences in performance across regions, with some regions generating stronger results than others.
-<img width="1276" height="714" alt="Screenshot 2026-05-18 142516" src="https://github.com/user-attachments/assets/edfc882d-102e-4a76-8a01-096cf7d358bb" />
-<img width="1114" height="626" alt="Screenshot 2026-05-18 161021" src="https://github.com/user-attachments/assets/dd3b3a95-e3c0-49e3-816c-2b7b79bd44ec" />
+<img width="1000" height="600" alt="Screenshot 2026-05-18 142516" src="https://github.com/user-attachments/assets/edfc882d-102e-4a76-8a01-096cf7d358bb" />
+<img width="1000" height="500" alt="Screenshot 2026-05-18 161021" src="https://github.com/user-attachments/assets/dd3b3a95-e3c0-49e3-816c-2b7b79bd44ec" />
 
 ### Business Recommendations:
 Based on these results, the following actions can be considered:
